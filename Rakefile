@@ -5,12 +5,12 @@ MAC_ONLY = %w{Brewfile}
 task default: "setup:setup"
 
 namespace :setup do
-  desc "Set up this computer to use the dotfiles"
+  desc "set up this computer"
   task :setup do
     Rake::Task["setup:symlink_dotfiles"].invoke
   end
 
-  desc "Make symlinks from home directory to the dotfiles"
+  desc "make symlinks"
   task :symlink_dotfiles do
     Dir.glob("*", File::FNM_DOTMATCH) do |file|
       uname = `uname`.strip
