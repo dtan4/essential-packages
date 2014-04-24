@@ -16,6 +16,7 @@ install markdown || true
 install memcached || true
 install mysql || true
 install nginx || true
+install nkf || true
 install openssl || true
 install plantuml || true || true
 install readline || true
@@ -30,6 +31,7 @@ install tig || true
 install tmux || true
 install tree || true
 install vim || true
+install wget || true
 install zsh || true
 
 cask install alfred || true
