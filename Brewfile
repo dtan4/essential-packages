@@ -6,6 +6,7 @@ install direnv || true
 install emacs --cocoa --srgb --with-gnutls --japanese || true
 install fontforge || true
 install git || true
+install gist || true
 install go || true
 install graphicsmagick || true
 install graphviz || true
