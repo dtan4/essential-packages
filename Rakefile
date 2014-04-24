@@ -1,4 +1,4 @@
-SYMLINKS_EXCLUDE = %w{. .. .git .gitmodules Rakefile README.md}
+SYMLINKS_EXCLUDE = %w{. .. .git .gitmodules .gitignore Rakefile README.md}
 LINUX_ONLY = %w{}
 MAC_ONLY = %w{Brewfile}
 
