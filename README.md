@@ -1,6 +1,6 @@
-# Essential package
+# Essential packages
 
-My essential package
+My essential packages
 
 ## Dependencies
 * [Homebrew](http://brew.sh/) (Mac)
