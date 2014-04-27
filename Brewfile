@@ -13,6 +13,7 @@ install graphviz || true
 install heroku-toolbelt || true
 install hub || true
 install imagemagick || true
+install jq || true
 install markdown || true
 install memcached || true
 install mysql || true
@@ -32,6 +33,7 @@ install tig || true
 install tmux || true
 install tree || true
 install vim || true
+install w3m || true
 install wget || true
 install zsh || true
 
@@ -42,6 +44,7 @@ cask install dash || true
 cask install dropbox || true
 cask install eclipse-ide || true
 cask install eclipse-platform || true
+cask install evernote || true
 cask install genymotion || true
 cask install google-chrome || true
 cask install google-japanese-ime || true
