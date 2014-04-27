@@ -24,7 +24,7 @@ install plantuml || true || true
 install readline || true
 install reattach-to-user-namespace || true
 install redis || true
-install ricty || true
+install ricty --powerline --vim-powerline || true
 install source-highlight || true
 install sqlite || true
 install terminal-notifier || true
