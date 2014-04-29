@@ -5,6 +5,7 @@ install brew-cask || true
 install direnv || true
 install emacs --cocoa --srgb --with-gnutls --japanese || true
 install fontforge || true
+install ghostscript || true
 install git || true
 install gist || true
 install go || true
@@ -40,6 +41,7 @@ install zsh || true
 cask install alfred || true
 cask install android-studio || true
 cask install appcleaner || true
+cask install basictex || true
 cask install dash || true
 cask install dropbox || true
 cask install eclipse-ide || true
