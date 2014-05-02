@@ -1,5 +1,6 @@
 tap phinze/cask
 tap sanemat/font
+tap homebrew/science
 
 install brew-cask || true
 install direnv || true
@@ -20,8 +21,9 @@ install memcached || true
 install mysql || true
 install nginx || true
 install nkf || true
+install opencv || true
 install openssl || true
-install plantuml || true || true
+install plantuml || true
 install readline || true
 install reattach-to-user-namespace || true
 install redis || true
@@ -50,6 +52,7 @@ cask install evernote || true
 cask install genymotion || true
 cask install google-chrome || true
 cask install google-japanese-ime || true
+cask install gyazo || true
 cask install skype || true
 cask install sourcetree || true
 cask install thunderbird || true
