@@ -16,6 +16,7 @@ install heroku-toolbelt || true
 install hub || true
 install imagemagick || true
 install jq || true
+install kindlegen || true
 install markdown || true
 install memcached || true
 install mysql || true
