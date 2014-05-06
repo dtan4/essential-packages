@@ -25,6 +25,7 @@ install nginx || true
 install nkf || true
 install opencv || true
 install openssl || true
+install phantomjs || true
 install plantuml || true
 install readline || true
 install reattach-to-user-namespace || true
