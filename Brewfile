@@ -1,6 +1,7 @@
+tap homebrew/binary
+tap homebrew/science
 tap phinze/cask
 tap sanemat/font
-tap homebrew/science
 
 install brew-cask || true
 install direnv || true
@@ -50,6 +51,7 @@ cask install dropbox || true
 cask install eclipse-ide || true
 cask install eclipse-platform || true
 cask install evernote || true
+cask install firefox || true
 cask install genymotion || true
 cask install google-chrome || true
 cask install google-japanese-ime || true
