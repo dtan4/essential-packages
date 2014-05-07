@@ -1,6 +1,6 @@
 tap homebrew/binary
 tap homebrew/science
-tap phinze/cask
+tap caskroom/cask
 tap sanemat/font
 
 install brew-cask || true
