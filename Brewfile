@@ -19,6 +19,8 @@ install imagemagick || true
 install jq || true
 install kindlegen || true
 install markdown || true
+install mecab || true
+install mecab-ipadic || true
 install memcached || true
 install mysql || true
 install nginx || true
