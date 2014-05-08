@@ -22,6 +22,7 @@ install markdown || true
 install mecab || true
 install mecab-ipadic || true
 install memcached || true
+install mongodb || true
 install mysql || true
 install nginx || true
 install nkf || true
@@ -29,6 +30,7 @@ install opencv || true
 install openssl || true
 install phantomjs || true
 install plantuml || true
+install postgresql || true
 install readline || true
 install reattach-to-user-namespace || true
 install redis || true
