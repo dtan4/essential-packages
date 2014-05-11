@@ -66,5 +66,6 @@ cask install sourcetree || true
 cask install thunderbird || true
 cask install vagrant || true
 cask install virtualbox || true
+cask install vlc || true
 
 cleanup
