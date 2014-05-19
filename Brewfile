@@ -10,6 +10,7 @@ install fontforge || true
 install ghostscript || true
 install git || true
 install gist || true
+install global || true
 install go || true
 install graphicsmagick || true
 install graphviz || true
