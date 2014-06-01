@@ -1,6 +1,6 @@
 SYMLINKS_EXCLUDE = %w{. .. .git .gitmodules .gitignore Rakefile README.md}
 LINUX_ONLY = %w{}
-MAC_ONLY = %w{Brewfile}
+MAC_ONLY = %w{Brewfile Brewfile.cask}
 
 task default: "setup:setup"
 
