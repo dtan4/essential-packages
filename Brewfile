@@ -1,5 +1,6 @@
 tap homebrew/binary
 tap homebrew/science
+tap lestrrat/peco
 tap sanemat/font
 
 install direnv || true
@@ -28,6 +29,7 @@ install nginx || true
 install nkf || true
 install opencv || true
 install openssl || true
+install peco || true
 install phantomjs || true
 install plantuml || true
 install postgresql || true
