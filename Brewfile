@@ -45,6 +45,7 @@ install the_silver_searcher || true
 install tig || true
 install tmux || true
 install tree || true
+install v8 || true
 install vim || true
 install w3m || true
 install wget || true
