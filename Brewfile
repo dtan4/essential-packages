@@ -3,6 +3,7 @@ tap homebrew/science
 tap lestrrat/peco
 tap sanemat/font
 
+install ctags || true
 install direnv || true
 install emacs --cocoa --srgb --with-gnutls --japanese || true
 install fontforge || true
