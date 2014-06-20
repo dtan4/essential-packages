@@ -1,6 +1,6 @@
 tap homebrew/binary
 tap homebrew/science
-tap lestrrat/peco
+tap peco/peco
 tap sanemat/font
 
 install ctags || true
