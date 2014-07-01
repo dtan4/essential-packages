@@ -41,6 +41,7 @@ install ricty --powerline --vim-powerline || true
 install rlwrap || true
 install source-highlight || true
 install sqlite || true
+install ssh-copy-id || true
 install terminal-notifier || true
 install the_silver_searcher || true
 install tig || true
