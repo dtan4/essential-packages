@@ -1,5 +1,6 @@
 tap homebrew/binary
 tap homebrew/science
+tap motemen/ghq
 tap peco/peco
 tap sanemat/font
 
@@ -7,6 +8,7 @@ install ctags || true
 install direnv || true
 install emacs --cocoa --srgb --with-gnutls --japanese || true
 install fontforge || true
+install ghq || true
 install ghostscript || true
 install git || true
 install gist || true
