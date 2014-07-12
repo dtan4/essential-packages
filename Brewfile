@@ -31,6 +31,7 @@ install mongodb || true
 install mysql || true
 install nginx || true
 install nkf || true
+install open-mpi || true
 install opencv || true
 install openssl || true
 install peco || true
