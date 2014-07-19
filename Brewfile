@@ -4,6 +4,7 @@ tap motemen/ghq
 tap peco/peco
 tap sanemat/font
 
+install aspell --lang=en || true
 install ctags || true
 install direnv || true
 install emacs --cocoa --srgb --with-gnutls --japanese || true
