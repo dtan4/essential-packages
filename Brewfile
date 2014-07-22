@@ -18,6 +18,7 @@ install gnuplot || true
 install go || true
 install graphicsmagick || true
 install graphviz || true
+install groff || true
 install heroku-toolbelt || true
 install hub || true
 install imagemagick || true
