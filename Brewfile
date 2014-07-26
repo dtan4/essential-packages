@@ -6,6 +6,7 @@ tap sanemat/font
 
 update
 
+install ant
 install aspell --with-lang-en || true
 install ctags || true
 install direnv || true
@@ -18,6 +19,7 @@ install gist || true
 install global || true
 install gnuplot || true
 install go || true
+install gradle
 install graphicsmagick || true
 install graphviz || true
 install groff || true
