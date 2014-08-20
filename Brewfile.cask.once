@@ -17,6 +17,7 @@ cask install google-chrome || true
 cask install google-japanese-ime || true
 cask install gyazo || true
 cask install skype || true
+cask install slack || true
 cask install sourcetree || true
 cask install thunderbird || true
 cask install vlc || true

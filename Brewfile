@@ -6,8 +6,10 @@ tap sanemat/font
 
 update
 
-install ant
+install ant || true
+install apple-gcc4.2 || true
 install aspell --with-lang-en || true
+install colordiff || true
 install ctags || true
 install direnv || true
 install emacs --cocoa --srgb --with-gnutls --japanese || true
