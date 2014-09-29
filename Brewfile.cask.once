@@ -14,6 +14,7 @@ cask install evernote || true
 cask install firefox || true
 cask install genymotion || true
 cask install google-chrome || true
+cask install google-drive || true
 cask install google-japanese-ime || true
 cask install gyazo || true
 cask install skype || true
