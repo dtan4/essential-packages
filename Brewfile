@@ -9,6 +9,7 @@ update
 install ant || true
 install apple-gcc4.2 || true
 install aspell --with-lang-en || true
+install boot2docker || true
 install colordiff || true
 install ctags || true
 install direnv || true
