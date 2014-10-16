@@ -1,3 +1,4 @@
+tap gapple/services
 tap homebrew/binary
 tap homebrew/science
 tap motemen/ghq
