@@ -1,6 +1,4 @@
-tap caskroom/cask
-
-install brew-cask || true
+install caskroom/cask/brew-cask || true
 
 cask install intel-haxm || true
 cask install java || true

@@ -20,6 +20,7 @@ install git || true
 install gist || true
 install global || true
 install gnuplot || true
+install gnu-sed || true
 install go || true
 install gradle
 install graphicsmagick || true
