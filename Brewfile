@@ -5,8 +5,6 @@ tap motemen/ghq
 tap peco/peco
 tap sanemat/font
 
-update
-
 install ant || true
 install apple-gcc4.2 || true
 install aspell --with-lang-en || true
