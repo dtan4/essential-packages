@@ -17,9 +17,8 @@ def execute(argv)
 end
 
 if ARGV.length < 1
-  $stderr.puts "Please specify Brewfile!"
-  exit 1
-end
-
-execute(ARGV)
+  execute(["Brewfile"])
+else
+  execute(ARGV)
+end 
 
