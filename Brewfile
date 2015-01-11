@@ -46,7 +46,6 @@ install openssl || true
 install peco || true
 install phantomjs || true
 install plantuml || true
-install postgresql || true
 install readline || true
 install reattach-to-user-namespace || true
 install redis || true
