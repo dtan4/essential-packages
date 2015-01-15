@@ -3,6 +3,7 @@ tap homebrew/binary
 tap homebrew/science
 tap motemen/ghq
 tap peco/peco
+tap railwaycat/emacsport
 tap sanemat/font
 
 install ant || true
@@ -12,7 +13,7 @@ install boot2docker || true
 install colordiff || true
 install ctags || true
 install direnv || true
-install emacs --cocoa --srgb --with-gnutls --japanese || true
+install emacs-mac --icon-official || true
 install fontforge || true
 install ghq || true
 install ghostscript || true
